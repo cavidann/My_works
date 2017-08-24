@@ -1,0 +1,244 @@
+.ortala {
+    width: 854px;
+    margin: 0 auto;
+}
+
+.heightc {
+    height: 400px;
+}
+
+.ortala .img {
+    width: 410px;
+}
+
+.textc {
+    width: 420px;
+    font-size: 13px;
+}
+
+.textc span {
+    font-size: 20px;
+}
+
+.marginc {
+    margin-top: 70px;
+}
+
+.clear {
+    clear: both;
+}
+
+.buttonc p{
+    margin-bottom: 10px;
+    padding: 10px;
+    /*margin-left: 16px;*/
+    margin-right: 16px; 
+    background: deepskyblue;
+    color: white;
+ 
+}
+
+.buttonc p:hover {
+    color: deepskyblue;
+    border: 1px solid deepskyblue;
+    background: white;
+}
+
+.fullscreen {
+    background: url(../img/1.jpg);
+    background-size: cover;
+    height: 1000px;
+}
+
+.ortala1 {
+    color: white;
+    text-align: center;
+    padding-top: 382px;
+    padding-bottom: 495px;
+    width: 949px;
+    margin: 0 auto;
+    font-size: 13px;
+}
+
+.fullscreen span {
+    font-size: 41px;
+}
+
+o {
+    color: deepskyblue;
+}
+
+.layer {
+    border: 1px solid;
+    background: rgba(0, 0, 0, 0.7)
+}
+
+.bluec {
+    padding: 50px 0px;
+    color: white;
+    text-align: center;
+    background: deepskyblue;
+}
+
+.bluec span {
+    font-size: 49px;
+}
+
+.statc {
+    display: flex;
+}
+
+.st {
+    margin-top: 50px;
+    height: 100px;
+    width: 100px;
+    flex: 1;
+}
+
+.makec {
+    padding-bottom: 45px;
+    padding-top: 50px;
+    text-align: center;
+}
+
+.makec span {
+    color: dodgerblue;
+    font-size: 35;
+}
+
+.cc img {
+    width: 480px;
+}
+
+.cc .input {
+    width: 506px;
+    border: 1px #e1e1e1 solid;
+}
+
+.margincc {
+    margin-top: 40px;
+}
+
+.name {
+    width: 215px;
+}
+.margin-right{
+    margin-right: 15px;
+}
+.cc input{ 
+    color: gray;
+}
+.number{
+width: 468px;
+}
+.iheightc{
+height: 41px;
+}
+.boz{
+    background: #F9F7F9;
+}
+.ortala3{
+   
+    width: 1000px;
+    margin: 0 auto;
+}
+.galery img:hover{
+   
+opacity: 0.8;
+transform: scale(1.1,1.1); 
+}
+
+
+.subject{
+    position: relative;
+    display: block;
+    width: 100%;
+    background: #fefefe;
+    line-height: 30px;
+    padding: 8px 16px;
+    height: 40px;
+    border: 1px solid #e1e1e1;
+    border-radius: 0;
+}
+option {
+    font-weight: normal;
+    display: block;
+    white-space: pre;
+    min-height: 1.2em;
+    padding: 0px 2px 1px;
+}
+select{
+    width: 468px;
+}
+.margin-left{
+    margin-left:20px; 
+}
+.margin-bottom{
+    margin-bottom: 30px; 
+}
+.blackc {    
+    padding: 50px 0px;
+    color: white;
+    text-align: center;
+    background: #2d2d2d;
+    font-size:30px; 
+}
+.hover .col12:hover{
+  background: deepskyblue;
+}
+
+.wtc {    
+    padding: 50px 0px;
+   color: gray;
+    text-align: center;
+    background: white;
+    font-size:17px; 
+}
+.wtc span{
+     font-size:51px; 
+     color: deepskyblue;
+}
+.galery{
+    width: 59%;
+    margin: 0 auto;
+}
+.galery img{
+    float: left;
+    width: 25%; 
+}
+
+.bi{
+    
+    margin-top: 100px;
+    text-align: center;
+    background: url(../img/z.jpg);
+    background-size: cover; 
+    color: white;
+}
+.bi span{
+    margin-top: 100px; 
+    color: deepskyblue;
+    font: 20px;
+}
+.ortalas {
+   
+    color: white;
+    text-align: center;
+    padding-top: 160px;
+    padding-bottom: 117px;
+    width: 949px;
+    margin: 0 auto;
+    font-size: 19px;
+}
+t{
+    font-size: 23px;
+}
+.fullscreenn span {
+    font-size: 41px;
+}
+.fullscreenn { 
+    background: url(../img/z.jpg);
+    background-size: cover;
+    height: 500px;
+    margin-top: 100px;
+}

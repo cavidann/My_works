@@ -1,0 +1,230 @@
+.blogtext {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+.blogtext h1 {
+    color: #009CDE;
+    font-size: 40px;
+    font-weight: 100;
+}
+.blogtext p {
+    color: #616161;
+}
+.pictures {
+    margin: 0 auto;
+    width: 1200px;
+}
+.purchase, .gather {
+    margin: 0 auto;
+    width: 1150px;
+}
+.margin_right_10 {
+    margin-right: 10px;
+}
+.margin_top_25 {
+    margin-top: 25px;
+}
+.margin_top_100 {
+    margin-top: 100px;
+}
+.pictures button, .team button {
+    border: 1px solid cornflowerblue;
+    color: cornflowerblue;
+    height: 30px;
+    background: transparent;
+    width: 100px;
+    font-family: 'Fira-sans', sans-serif;
+    margin-top: 20px;
+}
+.pictures {
+    font-family: 'Raleway', sans-serif;
+    font-size: 0.84em;
+}
+.pictures .text {
+    margin-top: 35px;
+    color: #626262;
+    font-weight: 100;
+}
+.pictures h6 {
+    font-size: 0.9em;
+}
+.pictures .img {
+    height: 249px;
+    overflow: hidden;
+}
+.pictures i {
+    margin: 0px 4px 0px 0px;
+}
+.pictures span {
+    margin: 0px 8px;
+}
+.graybg {
+    background-color: #F9F7F9;
+    height: 1120px;
+}
+.graybg .text {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+.graybg .text h1, .graybg .text i {
+    color: #009CDE;
+    margin: 10px 20px;
+    font-size: 50px;
+    font-weight: 100;
+}
+.graybg .text h3 {
+    color: #444751;
+    font-weight: 900;
+    margin-top: 30px;
+}
+.graybg .map {
+    margin: 0 auto;
+    margin-top: 150px;
+    width: 1110px;
+    height: 650px;
+}
+.black {
+    background-image: url("../img/binding_dark.png");
+    background-repeat: repeat;
+    height: 630px;
+    margin: 0;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 100;
+}
+body {
+    margin: 0;
+}
+.black .text {
+    padding: 100px 0px 60px 0px;
+    font-size: 0.90em;
+}
+.black .text2 {
+    padding: 100px 0px 30px 0px;
+    font-size: 0.90em;
+}
+.black .text .top p{
+    font-size: 0.8em;
+}
+.black i {
+    border: 1px solid white;
+    padding: 18px 18px;
+    font-size: 17px;
+    float: left;
+    margin-right: 20px;
+}
+.black .details p {
+    margin-top: 20px;
+}
+.black .details p span {
+    color: #009CDE;
+}
+.black .bottom p {
+    font-size: .75em;
+}
+.black .bottom .heading p {
+    margin-top: 20px;
+    font-size: 0.9em;
+}
+input {
+    width: 70%;
+    height: 40px;
+    color: white;
+    background: transparent;
+    border-style: none;
+    border-bottom: 1px solid white;
+}
+input [name="FN"], input [name="Mail"] {
+    width: 65%;
+}
+textarea {
+    width: 70%;
+    color: white;
+    height: 150px;
+    border-style: none;
+    border-bottom: 1px solid white;
+    background: transparent;
+}
+textarea:active {
+    border-style: none;
+    border-bottom: 1px solid cornflowerblue;
+}
+.black input[type="submit"] {
+    width: 71%;
+    background-color: #009CDE;
+    border: 1px solid white;
+    margin-top: 30px;
+}
+.black input:active {
+    border: none;
+}
+.inputs .fn, .inputs .email {
+    width: 32%;
+    float: left;
+}
+.inputs .fn {
+    margin-right: 6%;
+}
+.black .fn input, .black .email input {
+    width: 100%;
+}
+.purchase button {
+    width: 180px;
+    height: 40px;
+    background-color: #009CDE;
+    border: none;
+}
+.purchase button, .purchase h1 {
+    margin: 65px 0px;
+    font-family: 'Raleway', sans-serif;
+}
+.purchase h1 {
+    font-size: 1.4em;
+}
+.purchase button {
+    color: white;
+    font-size: 1.1em;
+}
+.footer {
+    background: #004B88;
+    height: 400px;
+    padding-bottom: 30px;
+    font-family: 'Raleway', sans-serif;
+}
+.footer .gather {
+    color: white;
+    height: 300px;
+    border-bottom: 1px solid #009CDE;
+}
+.footer .gather .text {
+    margin: 80px 15px 30px 0px;
+    font-weight: 100;
+    font-size: 0.9em;
+    line-height: 25px;
+}
+.footer .text p {
+    font-size: 0.85em;
+}
+.footer h5, .footer .icons {
+    text-align: center;
+    color: white;
+    margin-bottom: 10px;
+}
+.footer .icons i {
+    border: 1px solid white;
+    width: 30px;
+    height: 22px;
+    padding-top: 5px;
+}
+.footer .icons i:nth-child(2) {
+   margin: 0px 5px;
+}
+.footer .icons i:nth-child(3) {
+   margin-right: 5px;
+}
+.footer .gather .col6 {
+    margin-top: -13px;
+}
+body {
+    margin: 0;
+}

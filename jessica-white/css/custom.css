@@ -1,0 +1,205 @@
+body{
+    background: #c1d8de;
+}
+.main{
+    width: 900px;
+    margin: 0 auto;
+    background: white;
+}
+.ortala{
+    height: auto;
+    width: 700px;
+    margin: 0 auto;
+    background: white;
+}
+.ortala1{
+    height:205px;
+    width: 700px;
+    margin: 0 auto;
+    background: white;
+}
+.bblack{
+    height:180px;
+    width: 100%;
+    margin: 0 auto;
+       background: #1e1e1e;
+}
+.ortala2{
+    height:284px;
+    width: 700px;
+    margin: 0 auto;
+    
+}
+.height1{
+height: 1px;
+}
+.height2{
+    height: 80px;
+}
+.height3{
+    height: 40px;
+}
+.height4{
+    height: 420px;
+}
+.height5{
+   height: 180px;
+}
+.height6{
+   height: 30px;
+}
+.height7{
+    height: 280px;
+}
+.height8{
+    height: 220px;
+}
+.margintop{
+    margin-top: 20px; 
+}
+
+.clear{
+    clear: both;
+}
+.line{
+    width: 99.6%;
+border: 2px solid;
+}
+.red{
+    border-color:red; 
+}
+ ul li{
+    font-weight: bold;
+    display: inline;
+    margin-left: 10px; 
+    font-size: 8px; 
+    float: right;
+}
+.toplogo i{
+        font-size: 10px;
+    text-align: center;
+    margin-left: 8px;
+    float: right;
+    color: white;
+    padding: 3px;
+    width: 9px;
+    height: 9px;
+    border-radius: 50%;
+    background: lightslategrey
+}
+.ortala .row .or i{
+    margin-left: 64px;
+    margin-top: 15px;
+    border-radius: 50%;
+    background: lightgrey;
+    padding: 9px;
+    text-align: center;
+    font-size:22px; 
+    margin-bottom: 15px;
+}
+.ortala .row span{
+    font-weight: bold;
+    line-height: 28px;
+}
+.ortala .row p{
+    line-height: 18px;
+    text-align: center;
+}
+.iki{
+    text-align: center;
+    font-size: 20px;;
+}
+.iki span{
+    font-size: 11px;
+}
+.bold{
+    font-weight: bold;
+       font-size: 13px;
+}
+.footlogo i{
+    color: gray;
+    float: right;
+    margin-right: 10px;
+    font-size: 8px;
+    margin-top: 5px; 
+}
+input[type=text] {
+    width: 59%;
+}
+.right{
+}
+.ricon{
+    float: right;
+}
+.font{
+    font-size: 10px;
+    
+}
+.left{
+float: left;
+}
+.date{
+    text-align: center;
+    border-radius: 50%;
+    padding: 6px; 
+    padding-top: 15px; 
+    padding-bottom: 15px; 
+    background: lightslategrey;
+    margin-right: 10px;
+    margin-bottom: 10px; 
+}
+x{
+    font-size: 10px;
+}
+.red{
+color: red;
+}
+o{
+        color: black;
+        font-size: 7px;
+}
+.rricon{
+    float: right;
+    margin-bottom:5px; 
+}
+m{
+    color: red;
+}
+button{
+    font-weight: bold;
+    color: white;
+    font-size: 10px;
+    padding: 10px 7px;
+    background: black;
+}
+.rred{
+    background: red;
+}
+
+.problem i{
+    margin-right: 10px; 
+    margin-bottom: 5px; 
+}
+.gline{
+    margin: 10px 0px;
+    border: 1px solid cadetblue;
+}
+.gray{
+    color: gray;
+}
+.bold img{
+width: 23%;
+}
+.problem{
+    color: black;
+    font-size: 9px;
+    
+}
+
+
+
+
+
+
+
+

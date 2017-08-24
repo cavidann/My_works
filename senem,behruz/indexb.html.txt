@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Blog</title>
+    <link rel="stylesheet" type="text/css" href="css/styleb.css">
+    <link rel="stylesheet" type="text/css" href="css/customb.css">
+    <link href="https://fonts.googleapis.com/css?family=Fira+Sans|Roboto" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel=stylesheet>
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+    <link rel="stylesheet" type="text/css" href="css/styles2.css">
+    <link rel="stylesheet" type="text/css" href="css/stylec.css">
+    <link rel="stylesheet" type="text/css" href="css/customc.css">
+</head>
+<body>
+    <div class="row">
+    <div class="col12">
+        <div class="blogtext">
+            <h1>BLOG</h1>
+            <p>Sed Portittor, justo in feugiat mollis, nunc velit luctus purus, in commodo nisi magna ut sa</p>
+        </div>
+    </div>
+    <div class="clear"></div>
+    </div>
+    <div class="row margin_top_25">
+        <div class="pictures">
+                <div class="col4">
+                   <div class="col12">
+                            <div class="img margin_right_10"><img src="img/1.jpg">
+                            </div>
+                        </div>
+                        <div class="col12">
+                            <div class="text">
+                            <h2>Vision gives you a limitless freedom!</h2>
+                            <h6><i class="fa fa-calendar-o" aria-hidden="true"></i>March 5, 2016<span> Posted by Admin</span> <i class="fa fa-comments" aria-hidden="true"></i>12</h6>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum arcu at risus faucibus pretium. Vestibulum egestas nulla lacus, a faucibus justo vulputate et.
+                            </p>
+                            </div>
+                        </div>
+                        <button type="button">Read More...</button>                        
+                </div>
+                <div class="col4">
+                   <div class="col12">
+                            <div class="img margin_right_10"><img src="img/2.jpg">
+                            </div>
+                        </div>
+                        <div class="col12">
+                            <div class="text">
+                            <h2>Vision gives you a limitless freedom!</h2>
+                            <h6><i class="fa fa-calendar-o" aria-hidden="true"></i>March 5, 2016 <span> Posted by Admin</span> <i class="fa fa-comments" aria-hidden="true"></i>12</h6>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum arcu at risus faucibus pretium. Vestibulum egestas nulla lacus, a faucibus justo vulputate et.
+                            </p>
+                            </div>
+                        </div>
+                        <button type="button">Read More...</button>                        
+                </div>
+                <div class="col4">
+                   <div class="col12">
+                            <div class="img"><img src="img/3.jpg">
+                            </div>
+                        </div>
+                        <div class="col12">
+                            <div class="text">
+                            <h2>Vision gives you a limitless freedom!</h2>
+                            <h6><i class="fa fa-calendar-o" aria-hidden="true"></i>March 5, 2016<span>  Posted by Admin</span> <i class="fa fa-comments" aria-hidden="true"></i>12</h6>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum arcu at risus faucibus pretium. Vestibulum egestas nulla lacus, a faucibus justo vulputate et.
+                            </p>
+                            </div>
+                        </div>
+                        <button type="button">Read More...</button>
+                </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+    <div class="row margin_top_100">
+        <div class="graybg">
+            <div class="col12">
+                <div class="text margin_top_100">
+                        <h1><i class="fa fa-inbox" aria-hidden="true"></i>Contact</h1>
+                        <h3>SED PORTTITOR, JUSTO IN FEUGIAT MOLLIS, NUNC VELIT LUCTUS PURUS, IN COMMODO NISI MAGNA UT SA.
+                        </h3>
+                </div>
+                <div class="map">
+                       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3031.1194547700056!2d49.686893609640634!3d40.56103924604922!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xdc5ee7c28e56a6e1!2sDostlar+%C3%87ay+Evi!5e0!3m2!1saz!2s!4v1488213076984"
+                        width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+    <div class="row">
+        <div class="col12">
+            <div class="black">
+                <div class="col6">
+                    <div class="col9 col_offset_3">
+                        <div class="top">
+                        <div class="col12">
+                        <div class="text">
+                        <h2>Contact Details</h2>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed magna vel velit dignissim luctus eu in urna. Praesent faucibus nisl sit amet nulla sollicitudin.</p>
+                        </div>
+                        </div>
+                        </div>
+                        <div class="bottom">
+                        <div class="col12">
+                        <div class="col6">
+                                        <i class="fa fa-map-marker" aria-hidden="true"> </i>
+                                        <div class="heading"><p>Our Offices</p></div>
+                        </div>
+                        <div class="col6">
+                                        <i class="fa fa-comment-o" aria-hidden="true"></i>
+                                        <div class="heading"><p>Contact Info</p></div>
+                        </div>
+                        <div class="details">
+                        <div class="col6">
+                                        <p>1071 Blue Rd. Soho,<br> NY 12345<br><br> 1071 Blue Rd. Soho,<br> NY 12345</p>
+                        </div>
+                        <div class="col6">
+                                        <p>Email: <span>info@company.com</span><br><br>
+                                               Tel: +1 234 567 890<br><br>
+                                               Fax: +1 234 567 890</p>
+                        </div>
+                        </div>
+                    </div>
+                    </div>
+                    </div>
+                </div>
+             <div class="col6">
+                        <div class="text2">
+                            <h2>Contact Form</h2>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                        </div>
+                       <div class="inputs">
+                       <div class="fn"> <input type="text" name="FN" value=""></div>
+                       <div class="email"> <input type="text" name="Mail" value=""></div>
+                       <input type="text" name="LN" value=""><br>
+                       <textarea></textarea>
+                       <input type="submit" value="">
+                       </div>  
+             </div>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+    <div class="row">
+        <div class="purchase">
+        <div class="col8">
+            <h1>Praesent faucibus nisl sit amet nulla sollicitudin</h1>
+        </div>
+        <div class="col2 col_offset_2">
+            <button type="button"><i class="fa fa-bolt" aria-hidden="true"></i>Purchase now!</button>
+        </div>
+        </div>
+        <div class="clear"></div> 
+    </div>
+    <div class="row">
+        <div class="footer">
+            <div class="gather">
+            <div class="col3">
+                <div class="text">
+                <h2>About PhysiotherapyPro</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed magna vel velit dignissim luctus eu in urna. Praesent faucibus nisl sit amet nulla sollicitudin.</p>
+                </div>
+            </div>
+            <div class="col3">
+                <div class="text">
+                <h2>Provided Services</h2>
+                <div class="col6"><p>Physiotherapy
+                                     Acupuncture
+                                     Orthopedic Bracing</p>
+                </div>
+                <div class="col6"><p>
+                                     Sports Injury
+                                     Rehabilitation
+                                     Physical Theraphy</p>
+                </div>                
+                </div>
+            </div>
+            <div class="col3">
+                <div class="text">
+                <h2>Contact Us</h2>
+                <p>Adress: 18th floor, 39 Max St, New York<br>
+                   Phone: (+1) 123 456 1234<br>
+                   Email: info@site.com</p>
+                </div>
+            </div>
+            <div class="col3">
+                <div class="text">
+                <h2>Opening Hours</h2>
+                <p>Mon - Sat 8.00 - 18.00<br>
+                   Sunday CLOSED</p>
+                </div>
+            </div>
+        </div>
+        <div class="col2 col_offset_5">
+            <div class="col12"><h5>©2017 All rights reserved</h5></div>
+            <div class="col12">
+                <div class="icons">
+                <i class="fa fa-facebook" aria-hidden="true"></i>
+                <i class="fa fa-twitter" aria-hidden="true"></i>
+                <i class="fa fa-google-plus" aria-hidden="true"></i>
+                <i class="fa fa-pinterest-p" aria-hidden="true"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+        </div>
+</body>
+</html>
