@@ -861,3 +861,10 @@ textarea.materialize-textarea:focus:not([readonly])+label {
 .project-information li a {
     color: #5da4d9;
 }
+img{
+    width: 100%;
+}
+.make-standart{
+    height: 130px;
+    overflow: hidden;
+}
