@@ -17,10 +17,12 @@ $color4:#f57e57;
     width: 100%;
     height: 670px;
     z-index: 2;
-    img{
-        width: 100%;
-        height: 100%;
-    }
+    background: url(../images/pages/typography-01-770x420.jpg) no-repeat;
+    background-size:cover; 
+    // img{
+    //     width: 100%;
+    //     height: 100%;
+    // }
 }
 
 .menutab{
@@ -316,7 +318,9 @@ $color4:#f57e57;
 .work{
     background-color: #f1f3f9;
     width: 100%;
-    height: 700px;
+    display: flex;
+    flex-flow: row wrap;
+    padding-bottom:90px; 
     h1{
         margin-top: 80px;
          text-align: center;
@@ -378,7 +382,7 @@ $color4:#f57e57;
          }
      }
      .work_button{
-         margin-top: 40px;
+         margin-top: 80px;
          text-align: center;
          button{
         background-color: $color4;
@@ -438,9 +442,8 @@ $color4:#f57e57;
         height: 680px;
         .sec_pos{
             position: absolute;
-            height: 70%;
+            height: 100%;
             width: 80%;
-            top: 15%;
             left: 15%;
             h1{
                 font-size: 40px;
@@ -471,7 +474,7 @@ $color4:#f57e57;
                         }
                         p{
                             font-size: 20px;
-                            margin: 20px 0;
+                            margin: 50px 0;
                             color: lightslategray;
                         }
                         .col-md-12{
@@ -517,7 +520,6 @@ $color4:#f57e57;
         .dots1{
             width: 120px;
             height: 40px;
-            margin-top: 50px;
             }
 
             .dot1{
@@ -651,11 +653,9 @@ $color4:#f57e57;
      .margin{
      .pros{
         width: 90%;
-        margin: 0 5%;
-        height: 450px;
+        margin: 5%;
         img{
             width: 100%;
-            height: 180px;
         }
         h3{
            color: $color3; 
@@ -671,7 +671,7 @@ $color4:#f57e57;
            float: left;
            padding-left: 10px;
            text-decoration: none;
-           pointer: cursor;
+           cursor: pointer;
            &:hover{
               color: $color3;
            } 
@@ -702,7 +702,7 @@ $color4:#f57e57;
 
       .btnblog{
             margin-left: 42%;
-             margin-top: 30px;
+            margin-top: 50px;
             background-color: $color4;
             color: $color1;
              padding:  11px 24px;
@@ -719,7 +719,7 @@ $color4:#f57e57;
 .help{
 .layout1 {
     width: 100%;
-    height: 670px;
+    height: 100%;
     background-color: rgba(deepskyblue, 0.5);
    
     // z-index: 3;
@@ -741,12 +741,13 @@ $color4:#f57e57;
 }
     margin-top: 110px;
     .helppic{
+        // padding: 130px;
         position: relative;
         overflow: hidden;
-        height: 500px;
+        height: 570px;
         width: 100%;
         background-image: url('../images/blog/post-05-570x370.jpg');
-        background-size: 100% 100%;
+        background-size: cover;
         background-attachment: fixed;
         background-repeat: no-repeat;
         .opocityblue{
@@ -877,9 +878,7 @@ $color4:#f57e57;
  }
 
 @media screen and (max-width:991px){
-    .work{
-        height:1126px;
-    }
+    
 .testimonials .right .sec_pos .wordekran .fullsize .word1 .col-md-12{
     width: 80px;
 }
@@ -1212,7 +1211,8 @@ input{
 }
 a{
     //  padding: 18px!important;
-  margin: 0px !important;
+//   margin: 0px !important;
+padding-left: 20px;
 }
 @media screen and (max-width:867px){
 .input-group{
@@ -1273,7 +1273,6 @@ body{
 }
 
 .onlycolor {
-    margin-top: 40px; 
        background-color: #f1f3f9;
             h1 {
          font-size: 50px;
